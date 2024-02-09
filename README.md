@@ -3,7 +3,31 @@
 ## Prompt Engineering
 
 ### Prompt Components
-|Component|Example|
-|---------|-------|
-|Role|**Act as a fanatic of Apple devices.** Which phone is better, one that runs on the Android operating system or one that uses iOS?`|
-|Context|**Tesla is recalling nearly all 2 million of its cars on US roads to limit the use of its Autopilot feature following a two-year probe by US safety regulators of roughly 1,000 crashes in which the feature was engaged.** Is it a good idea to buy a Tesla car right now?|
+- Role
+- Context
+- Task
+- Data
+- Output
+- Example
+- Constraints
+- Evaluation Criteria
+
+#### Example 1 (Task + Context + Output).
+
+Step 1:
+
+*Task: Does the next sentence makes any sense? I'm wearing a cat.*
+
+Step 2:
+
+*Context: I'm wearing a cat.*
+
+*Task: Is the sentence provided in context makes any sense?*
+
+Step 3:
+
+*Context: I'm wearing a cat.*
+
+*Task: Is the sentence provided in context makes any sense?*
+
+*Output: Generate a JSON containing only two keys: "isCorrect", "explanation". The key "isCorrect" can include only boolean values, 'true' or 'false'. Put 'true' in case of word is used correctly in the provided context and 'false' otherwise. The key "explanation" should include some explanation why this sentence is good or bad.*
