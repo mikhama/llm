@@ -63,7 +63,7 @@ Context: Our company has recently got an opportunity to participate in a new sta
 
 Task: Propose which candidate is better for a position of Software Engineer.
 
-Data:
+Data: \
 Name,Education,Experience in IT,Expected salary (USD),Skills
 Olivia Johnson,Software Engineer,10 years,5000,React;Node.js;AWS;TypeScript
 Liam Smith,Lawyer,2 years,4000,React;Angular;TypeScript
