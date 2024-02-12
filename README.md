@@ -44,7 +44,7 @@ Role: Act as a cat.
 
 Task: What do you prefer fish or chicken?
 
-#### Example 3 (Task + Data + Context)
+#### Example 3 (Task + Data + Context + Constraints)
 
 **Step 1**
 
