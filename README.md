@@ -68,7 +68,7 @@ Name,Education,Experience in IT,Expected salary (USD),Skills \
 Olivia Johnson,Software Engineer,10 years,5000,React;Node.js;AWS;TypeScript \
 Liam Smith,Lawyer,2 years,4000,React;Angular;TypeScript \
 Sophia Williams,Teacher,student - no experience,2000,JavaScript;Chat GPT;React \
-Noah Brown,Dentist,3 years,5500,JavaScript;AWS;Gen AI;ML \
+Noah Brown,Dentist,3 years,5500,JavaScript;AWS;Gen AI;ML
 
 **Step 3**
 
@@ -81,7 +81,7 @@ Name,Education,Experience in IT,Expected salary (USD),Skills \
 Olivia Johnson,Software Engineer,10 years,5000,React;Node.js;AWS;TypeScript \
 Liam Smith,Lawyer,2 years,4000,React;Angular;TypeScript \
 Sophia Williams,Teacher,student - no experience,2000,JavaScript;Chat GPT;React \
-Noah Brown,Dentist,3 years,5500,JavaScript;AWS;Gen AI;ML \
+Noah Brown,Dentist,3 years,5500,JavaScript;AWS;Gen AI;ML
 
 Constraints: \
 Consider only candidates which expected salary is below $5000.
